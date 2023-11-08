@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+love-island-uk
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Love Island 🏝️
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+Can I Pull You For a Chat? All things #loveisland! Weekly discussion by @leigh-chantelle. Pin this feed to stay up-to-date! Ping @agb.bsky.social for feed & filter updates.
 
 # searchTerms
 
@@ -25,12 +25,20 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- "#loveisland"
+- "#loveislanduk"
+- "#loveislandusa"
+- "#casaamor"
+- "love island"
+- "love island uk"
+- "casa amor"
+- "love island usa"
+- "love island games"
+- "#loveislandaus"
+- "love island aus"
+- "love island australia"
+- "#loveislandau"
+- "#loveislandgames"
 
 # denyList
 
@@ -45,7 +53,7 @@ Cute animals feed
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
