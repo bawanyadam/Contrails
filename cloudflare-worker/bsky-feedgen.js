@@ -6,7 +6,7 @@ import { resetFetchCount, setSafeMode } from "./bsky-fetch-guarded";
 import { loginWithEnv } from "./bsky-auth";
 
 // let's be nice
-const DEFAULT_LIMIT = 40;
+const DEFAULT_LIMIT = 70;
 const QUOTED_PHRASE_REGEX = /"([^"]+)"/g;
 
 export async function feedGeneratorWellKnown(request) {
