@@ -15,7 +15,7 @@ Love Island 🏝️
 
 > This is the description of the feed.
 
-Can I Pull You For a Chat? All things #loveisland! Weekly discussion by @leigh-chantelle. Pin this feed to stay up-to-date! Ping @agb.bsky.social for feed & filter updates.
+All things #loveisland! Weekly discussion by @leigh-chantelle. Pin this feed to stay up-to-date! Ping @agb.bsky.social for feed & filter updates.
 
 # searchTerms
 
@@ -31,14 +31,14 @@ Can I Pull You For a Chat? All things #loveisland! Weekly discussion by @leigh-c
 - "#casaamor"
 - "love island"
 - "love island uk"
+- "love island all stars"
 - "casa amor"
 - "love island usa"
-- "love island games"
 - "#loveislandaus"
 - "love island aus"
 - "love island australia"
 - "#loveislandau"
-- "#loveislandgames"
+- "#loveislandallstars"
 
 # denyList
 
