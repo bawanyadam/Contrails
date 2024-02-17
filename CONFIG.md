@@ -15,7 +15,7 @@ Love Island 🏝️
 
 > This is the description of the feed.
 
-All things #loveisland! Weekly discussion by @leigh-chantelle. Pin this feed to stay up-to-date! Ping @agb.bsky.social for feed & filter updates.
+Love Island Feed 0.1, Bluesky Elder edition. Please see pinned post for new feed.
 
 # searchTerms
 
@@ -25,20 +25,21 @@ All things #loveisland! Weekly discussion by @leigh-chantelle. Pin this feed to 
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- "#loveisland"
-- "#loveislanduk"
-- "#loveislandusa"
-- "#casaamor"
-- "love island"
-- "love island uk"
-- "love island all stars"
-- "casa amor"
-- "love island usa"
-- "#loveislandaus"
-- "love island aus"
-- "love island australia"
-- "#loveislandau"
-- "#loveislandallstars"
+- https://bsky.app/profile/agb.bsky.social/post/3kllk5gru5n2q
+> - "#loveisland"
+> - "#loveislanduk"
+> - "#loveislandusa"
+> - "#casaamor"
+> - "love island"
+> - "love island uk"
+> - "love island all stars"
+> - "casa amor"
+> - "love island usa"
+> - "#loveislandaus"
+> - "love island aus"
+> - "love island australia"
+> - "#loveislandau"
+> - "#loveislandallstars"
 
 # denyList
 
